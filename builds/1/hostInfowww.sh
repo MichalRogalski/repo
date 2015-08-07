@@ -1,5 +1,5 @@
  #!/bin/bash
-	echo "Current time:gggggggggggggggggggggg" 
+	echo "Current time:" 
 	date;
 	echo "Currently connected:"
 	w
